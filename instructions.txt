@@ -3,3 +3,4 @@ add salt
 add lemon
 add a dash of pepper
 
+be sure to serve with chips
